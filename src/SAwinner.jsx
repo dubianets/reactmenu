@@ -15,14 +15,19 @@ export default function  SAwinner (props){
 
     return(
 
-
+<div>
         <div>
             {titt}
             {" "} reiting:
             {" "}
             {winn}
+        </div><div>
+            {titt}
+            {" "} reiting:
+            {" "}
+            {winn}
         </div>
-
+</div>
 
     )
 

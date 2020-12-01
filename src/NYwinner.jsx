@@ -21,12 +21,19 @@ export default function NYwinner (props){
            {" "} reiting:
            {" "}
            {win}
-       </div>  <div>
+       </div>
+    <div>
             {tit}
            {" "} reiting:
            {" "}
            {win}
        </div>
+    <div>
+        {tit}
+        {" "} reiting:
+        {" "}
+        {win}
+    </div>
 </div>
 
     )

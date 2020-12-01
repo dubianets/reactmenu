@@ -21,12 +21,19 @@ export default function  SAwinner (props){
             {" "} reiting:
             {" "}
             {winn}
-        </div><div>
+        </div>
+    <div>
             {titt}
             {" "} reiting:
             {" "}
             {winn}
         </div>
+    <div>
+        {titt}
+        {" "} reiting:
+        {" "}
+        {winn}
+    </div>
 </div>
 
     )

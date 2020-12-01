@@ -29,6 +29,12 @@ export default function MIwinner(props) {
             {" "}
             {win}
         </div>
+    <div>
+            {tit}
+            {" "} reiting:
+            {" "}
+            {win}
+        </div>
 </div>
 
     )

@@ -20,11 +20,12 @@ function App() {
     const city = [
         {title: "New York", sccore:99},
         {title: "Seattle", sccore: 105},
-        {title: "Seattle", sccore: 105},
         {title:"Maiami", sccore: 87},
     ]
     const nyEmploey = [
         {title:"John", reiting: 68},
+        {title:"John1", reiting: 69},
+        {title:"John1", reiting: 69},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
         {title:"Yokejujr", reiting: 87},

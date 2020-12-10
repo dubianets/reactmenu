@@ -15,24 +15,17 @@ function App() {
         {make: 'Toyota', model: 'Camry', price:'1000'},
         {make: 'Mazda', model: 'CX', price:'3600'},
         {make: 'VAZ', model: 'Mh', price:'10'},
-        {make: 'VAZ', model: 'Mh', price:'10'},
-        {make: 'VAZ', model: 'Mh', price:'10'},
-        {make: 'VAZ', model: 'Mh', price:'10'},
     ];
 
     const city = [
         {title: "New York", sccore:99},
         {title: "Seattle", sccore: 105},
         {title:"Maiami", sccore: 87},
-        {title:"Maiami", sccore: 87},
-        {title:"Maiami", sccore: 87},
     ]
     const nyEmploey = [
         {title:"John", reiting: 68},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
-        {title:"Yokejujr", reiting: 87},
-        {title:"Yokejujr", reiting: 87},
         {title:"Yokejujr", reiting: 87},
     ]
 
@@ -52,8 +45,6 @@ function App() {
         {name: "Car", price: 10000},
         {name: "Carer", price: 100000},
         {name: "Camera", price: 2000},
-        {name: "Candy", price: 100},
-        {name: "Candy", price: 100},
         {name: "Candy", price: 100},
     ]
 

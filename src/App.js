@@ -14,6 +14,9 @@ function App() {
     const list = [
         {make: 'Toyota', model: 'Camry', price:'1000'},
         {make: 'Mazda', model: 'CX', price:'3600'},
+        {make: 'Mazda', model: 'CX', price:'3600'},
+        {make: 'Mazda', model: 'CX', price:'3600'},
+        {make: 'Mazda', model: 'CX', price:'3600'},
         {make: 'VAZ', model: 'Mh', price:'10'},
     ];
 
@@ -27,11 +30,15 @@ function App() {
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
         {title:"Yokejujr", reiting: 87},
+        {title:"Yokejujr", reiting: 87},
+        {title:"Yokejujr", reiting: 87},
     ]
 
     const miEmploey =[
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
+        {title:"Narow", reiting: 56},
+        {title:"Narow", reiting: 56},
         {title:"Narow", reiting: 56},
     ]
 

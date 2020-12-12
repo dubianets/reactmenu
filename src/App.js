@@ -39,16 +39,12 @@ function App() {
         {title:"Jothoph", reiting: 78},
         {title:"Rynni", reiting: 89},
         {title:"Lemmi", reiting: 70},
-        {title:"Lemmi", reiting: 70},
-        {title:"Lemmi", reiting: 70},
     ]
 
     const gifts = [
         {name: "Car", price: 10000},
         {name: "Carer", price: 100000},
         {name: "Camera", price: 2000},
-        {name: "Candy", price: 100},
-        {name: "Candy", price: 100},
         {name: "Candy", price: 100},
     ]
 

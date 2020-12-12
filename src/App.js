@@ -26,16 +26,12 @@ function App() {
         {title:"John", reiting: 68},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
-        {title:"Yokejujr", reiting: 87},
-        {title:"Yokejujr", reiting: 87},
-        {title:"Yokejujr", reiting: 87},
+       {title:"Yokejujr", reiting: 87},
     ]
 
     const miEmploey =[
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
-        {title:"Narow", reiting: 56},
-        {title:"Narow", reiting: 56},
         {title:"Narow", reiting: 56},
     ]
 

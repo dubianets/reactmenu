@@ -14,6 +14,8 @@ function App() {
     const list = [
         {make: 'Toyota', model: 'Camry', price:'1000'},
         {make: 'Mazda', model: 'CX', price:'3600'},
+        {make: 'Mazda', model: 'CX', price:'3600'},
+        {make: 'Mazda', model: 'CX', price:'3600'},
         {make: 'VAZ', model: 'Mh', price:'10'},
     ];
 

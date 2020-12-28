@@ -34,6 +34,8 @@ function App() {
     const miEmploey =[
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
+        {title:"West", reiting: 45},
+        {title:"West", reiting: 45},
         {title:"Narow", reiting: 56},
     ]
 
@@ -46,6 +48,8 @@ function App() {
     const gifts = [
         {name: "Car", price: 10000},
         {name: "Carer", price: 100000},
+        {name: "Camera", price: 2000},
+        {name: "Camera", price: 2000},
         {name: "Camera", price: 2000},
         {name: "Candy", price: 100},
    ]

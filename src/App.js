@@ -33,12 +33,10 @@ function App() {
     const miEmploey =[
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
-        {title:"West", reiting: 45},
         {title:"Narow", reiting: 56},
     ]
 
     const saEmploey =[
-        {title:"Jothoph", reiting: 78},
         {title:"Jothoph", reiting: 78},
         {title:"Rynni", reiting: 89},
         {title:"Lemmi", reiting: 70},

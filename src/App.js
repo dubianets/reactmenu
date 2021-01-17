@@ -20,11 +20,14 @@ function App() {
     const city = [
        {title: "New York", sccore:99},
        {title: "Seattle", sccore: 105},
+       {title: "Seattle", sccore: 105},
+       {title: "Seattle", sccore: 105},
         {title:"Maiami", sccore: 87},
         {title:"Maiami", sccore: 87},
     ]
     const nyEmploey = [
         {title:"John", reiting: 68},
+        {title:"Smith", reiting: 80},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
       {title:"Yokejujr", reiting: 87},
@@ -33,10 +36,12 @@ function App() {
     const miEmploey =[
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
+        {title:"West", reiting: 45},
         {title:"Narow", reiting: 56},
     ]
 
     const saEmploey =[
+        {title:"Jothoph", reiting: 78},
         {title:"Jothoph", reiting: 78},
         {title:"Rynni", reiting: 89},
         {title:"Lemmi", reiting: 70},

@@ -26,7 +26,6 @@ function App() {
         {title:"John", reiting: 68},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
-        {title:"Yoker", reiting: 89},
       {title:"Yokejujr", reiting: 87},
     ]
 
@@ -44,6 +43,7 @@ function App() {
 
     const gifts = [
         {name: "Car", price: 10000},
+        {name: "Carer", price: 100000},
         {name: "Carer", price: 100000},
         {name: "Camera", price: 2000},
         {name: "Candy", price: 100},

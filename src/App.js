@@ -48,6 +48,7 @@ function App() {
         {name: "Car", price: 10000},
         {name: "Carer", price: 100000},
         {name: "Camera", price: 2000},
+        {name: "Camera", price: 2000},
         {name: "Candy", price: 100},
    ]
 

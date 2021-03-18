@@ -13,10 +13,12 @@ function App() {
 
     const list = [
         {make: 'Toyota', model: 'Camry', price:'1000'},
+        {make: 'Toyota', model: 'Camry', price:'1000'},
         {make: 'Mazda', model: 'CX', price:'3600'},
     ];
 
     const city = [
+       {title: "New York", sccore:99},
        {title: "New York", sccore:99},
        {title: "Seattle", sccore: 105},
         {title:"Maiami", sccore: 87},

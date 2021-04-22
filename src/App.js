@@ -32,6 +32,8 @@ function App() {
         {title:"Tomson", reiting: 67},
         {title:"West", reiting: 45},
         {title:"West", reiting: 45},
+        {title:"West", reiting: 45},
+        {title:"West", reiting: 45},
         {title:"Narow", reiting: 56},
     ]
 

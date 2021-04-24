@@ -20,6 +20,9 @@ function App() {
        {title: "New York", sccore:99},
        {title: "Seattle", sccore: 105},
        {title: "Seattle", sccore: 105},
+       {title: "Seattle", sccore: 105},
+       {title: "Seattle", sccore: 105},
+       {title: "Seattle", sccore: 105},
         {title:"Maiami", sccore: 87},
     ]
     const nyEmploey = [

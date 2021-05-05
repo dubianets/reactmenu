@@ -24,6 +24,9 @@ function App() {
     ]
     const nyEmploey = [
         {title:"John", reiting: 68},
+        {title:"John", reiting: 68},
+        {title:"John", reiting: 68},
+        {title:"John", reiting: 68},
         {title:"Smith", reiting: 80},
         {title:"Yoker", reiting: 89},
       {title:"Yokejujr", reiting: 87},

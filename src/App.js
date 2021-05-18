@@ -37,6 +37,9 @@ function App() {
     const saEmploey =[
         {title:"Jothoph", reiting: 78},
         {title:"Rynni", reiting: 89},
+        {title:"Rynni", reiting: 89},
+        {title:"Rynni", reiting: 89},
+        {title:"Rynni", reiting: 89},
         {title:"Lemmi", reiting: 70},
     ]
 
